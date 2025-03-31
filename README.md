@@ -44,3 +44,6 @@ python refine_from_refdino.py --gids 0 1 2 3 4 5 6 7
 
 The parameter `gids` should be set based on the number of GPUs available on your device. The code will automatically create a `refine_output` directory and save the results under it.
 
+## Acknowledgements
+
+Our code is based on [SAM2](https://github.com/facebookresearch/sam2). It is a fantastic work.
