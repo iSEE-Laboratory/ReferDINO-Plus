@@ -2,7 +2,7 @@
 
 ![](https://github.com/iSEE-Laboratory/ReferDINO-Plus/blob/main/model.png)
 
-In this repository, we present the code of SAM2-based Mask Enhancement and Conditional Mask Fusion, which corresponds to the 2nd and 3rd stages of our solution.
+In this repository, we present the code of *SAM2-based Mask Enhancement* and *Conditional Mask Fusion*, which corresponds to the 2nd and 3rd stages of our solution.
 
 Meanwhile, we provide our intermediate results from the 1st stage on [Google Drive](https://drive.google.com/drive/folders/15pf3_-zkDZlfks3tyv0eiiCe7V-QOhe4), which can be directly used to execute this code.
 
