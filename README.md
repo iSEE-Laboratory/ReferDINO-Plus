@@ -1,5 +1,7 @@
 # **ReferDINO-Plus: 2nd Solution for 4th PVUW MeViS Challenge at CVPR 2025**
 
+[Technical Report](https://arxiv.org/pdf/2503.23509)
+
 ![](https://github.com/iSEE-Laboratory/ReferDINO-Plus/blob/main/model.png)
 
 In this repository, we present the code of *SAM2-based Mask Enhancement* and *Conditional Mask Fusion*, which corresponds to the 2nd and 3rd stages of our solution.
