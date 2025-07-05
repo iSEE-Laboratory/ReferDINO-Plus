@@ -49,3 +49,23 @@ The parameter `gids` should be set based on the number of GPUs available on your
 ## Acknowledgements
 
 Our code is based on [SAM2](https://github.com/facebookresearch/sam2). It is a fantastic work.
+
+
+## Citation
+If you find our work helpful for your research, please consider citing our report and paper.
+```bibtex
+@inproceedings{liang2025referdino,
+    title={ReferDINO: Referring Video Object Segmentation with Visual Grounding Foundations},
+    author={Liang, Tianming and Lin, Kun-Yu and Tan, Chaolei and Zhang, Jianguo and Zheng, Wei-Shi and Hu, Jian-Fang},
+    booktitle={Proceedings of the IEEE/CVF International Conference on Computer Vision},
+    year={2025}
+}
+
+@article{liang2025referdinoplus,
+  title={ReferDINO-Plus: 2nd Solution for 4th PVUW MeViS Challenge at CVPR 2025},
+  author={Liang, Tianming and Jiang, Haichao and Zheng, Wei-Shi and Hu, Jian-Fang},
+  journal={arXiv preprint arXiv:2503.23509},
+  year={2025}
+}
+
+```
