@@ -2,7 +2,7 @@
 
 * 📃[Technical Report](https://arxiv.org/pdf/2503.23509)
 
-![](https://github.com/iSEE-Laboratory/ReferDINO-Plus/blob/main/model.png)
+![](https://github.com/iSEE-Laboratory/ReferDINO-Plus/blob/main/visual.png)
 
 ## Model Overview
 ![](https://github.com/iSEE-Laboratory/ReferDINO-Plus/blob/main/model.png)
